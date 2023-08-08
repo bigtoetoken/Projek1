@@ -1,1 +1,7 @@
-<iframe height="100%" width="100%" id="geckoterminal-embed" title="GeckoTerminal Embed" src="https://www.geckoterminal.com/bsc/pools/0x0f6b3f890abd8c8176ac700a28ee8b2656cb3fcb?embed=1&info=1&swaps=1" frameborder="0" allow="clipboard-write" allowfullscreen></iframe>
+echo "# BigToeToken.sol" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/bigtoetoken/BigToeToken.sol.git
+git push -u origin main
